@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Arz-Website-React/static/css/main.63c47a78.css",
+    "main.js": "/Arz-Website-React/static/js/main.1ef7bbcf.js",
+    "static/media/img-Contact-Us.jpg": "/Arz-Website-React/static/media/img-Contact-Us.7f76b659b2276087c34d.jpg",
+    "static/media/img-Product-Banner.jpg": "/Arz-Website-React/static/media/img-Product-Banner.3b456b513ef2d5307233.jpg",
+    "static/media/img-Contact-us-1895-500.jpg": "/Arz-Website-React/static/media/img-Contact-us-1895-500.f58eb8e9632dd8a68b10.jpg",
+    "static/media/img-About-Us-1895-500.jpg": "/Arz-Website-React/static/media/img-About-Us-1895-500.fe9e00cd84a3299cfd60.jpg",
+    "static/media/fa-solid-900.ttf": "/Arz-Website-React/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/img-Quality-1903-300.jpg": "/Arz-Website-React/static/media/img-Quality-1903-300.098daf936cd6899a7b3f.jpg",
+    "static/media/img-1895-500-Head-Banner-En.jpg": "/Arz-Website-React/static/media/img-1895-500-Head-Banner-En.f8f09f79517cea266fab.jpg",
+    "static/media/img-Our-Story-Banner.jpg": "/Arz-Website-React/static/media/img-Our-Story-Banner.b37895874c0ae0bce766.jpg",
+    "static/media/fa-brands-400.ttf": "/Arz-Website-React/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Arz-Website-React/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Arz-Website-React/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/products-Take-Home.png": "/Arz-Website-React/static/media/products-Take-Home.d1d4c4a689a4bea1182f.png",
+    "static/media/products-Catering.png": "/Arz-Website-React/static/media/products-Catering.baf076f43bd22af42ca0.png",
+    "static/media/products-Distributors.png": "/Arz-Website-React/static/media/products-Distributors.0f35944728d5e53db490.png",
+    "static/media/img-Quality-on-home-page.png": "/Arz-Website-React/static/media/img-Quality-on-home-page.2f75cfccfe1f2129f1dd.png",
+    "static/media/products-impuls.png": "/Arz-Website-React/static/media/products-impuls.b3b629800a5255f83da8.png",
+    "static/media/fa-regular-400.ttf": "/Arz-Website-React/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Arz-Website-React/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/products-Our-Story.jpg": "/Arz-Website-React/static/media/products-Our-Story.a324bfc1e0963165c798.jpg",
+    "static/media/products-certificates.png": "/Arz-Website-React/static/media/products-certificates.c679fd56d0c455413f0b.png",
+    "static/media/fa-v4compatibility.ttf": "/Arz-Website-React/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Arz-Website-React/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Arz-Website-React/index.html",
+    "static/media/fonts-glyphicons-halflings-regular.eot": "/Arz-Website-React/static/media/fonts-glyphicons-halflings-regular.e0c75a24759575ee30b1.eot",
+    "main.63c47a78.css.map": "/Arz-Website-React/static/css/main.63c47a78.css.map",
+    "main.1ef7bbcf.js.map": "/Arz-Website-React/static/js/main.1ef7bbcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c47a78.css",
+    "static/js/main.1ef7bbcf.js"
+  ]
+}
